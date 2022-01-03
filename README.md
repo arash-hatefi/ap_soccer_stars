@@ -1,4 +1,4 @@
-# Soccer Star Game
+# Soccer Stars Game
 Project for the Advanced Programming undergraduate course, University of Tehran. (Finish date: 24-11-2020)
 
 ## Compile the code
