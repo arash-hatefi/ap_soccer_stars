@@ -1,4 +1,4 @@
-#include "soccerstars.hpp"
+#include "../include/soccerstars.hpp"
 
 SoccerStars::SoccerStars(int _n_rounds, int _goals_to_win)
 {

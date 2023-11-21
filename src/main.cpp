@@ -1,5 +1,5 @@
 #include <iostream>
-#include "soccerstars.hpp"
+#include "../include/soccerstars.hpp"
 
 using namespace std;
 

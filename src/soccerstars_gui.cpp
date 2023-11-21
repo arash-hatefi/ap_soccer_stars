@@ -1,4 +1,4 @@
-#include "soccerstars_gui.hpp"
+#include "../include/soccerstars_gui.hpp"
 
 
 GUI::GUI(GameComponents* _game_components) : game_components(_game_components)

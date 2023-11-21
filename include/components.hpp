@@ -1,8 +1,8 @@
 #ifndef __COMPONENTS__
 #define __COMPONENTS__
 
-#include "vector2d.hpp"
-#include "dynamics.hpp"
+#include "../include/vector2d.hpp"
+#include "../include/dynamics.hpp"
 #include <math.h>
 #include <bits/stdc++.h>
 #include <vector>

@@ -1,4 +1,4 @@
-#include "soccerstars_components.hpp"
+#include "../include/soccerstars_components.hpp"
 
 
 GameComponents::~GameComponents()

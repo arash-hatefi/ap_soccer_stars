@@ -1,10 +1,10 @@
 #ifndef __SOCCERSTARS_COMPONENTS__
 #define __SOCCERSTARS_COMPONENTS__
 
-#include "vector2d.hpp"
-#include "components.hpp"
-#include "soccerstars_parameters.hpp"
-#include "dynamics.hpp"
+#include "../include/vector2d.hpp"
+#include "../include/components.hpp"
+#include "../include/soccerstars_parameters.hpp"
+#include "../include/dynamics.hpp"
 
 struct GameComponents
 {

@@ -1,7 +1,7 @@
 #ifndef __VECTOR2D__
 #define __VECTOR2D__
 
-#include "./src/rsdl.hpp"
+#include "../lib/rsdl.hpp"
 #include <math.h>
 #include <bits/stdc++.h>
 

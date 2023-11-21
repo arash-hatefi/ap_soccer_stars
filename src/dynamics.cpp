@@ -1,4 +1,4 @@
-#include "dynamics.hpp"
+#include "../include/dynamics.hpp"
 
 
 Velocity::Velocity() {}

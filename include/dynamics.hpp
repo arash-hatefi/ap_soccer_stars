@@ -1,8 +1,8 @@
 #ifndef __DYNAMICS__
 #define __DYNAMICS__
 
-#include "vector2d.hpp"
-#include "utils.hpp"
+#include "../include/vector2d.hpp"
+#include "../include/utils.hpp"
 
 const double S2MILLIS = 1000;
 

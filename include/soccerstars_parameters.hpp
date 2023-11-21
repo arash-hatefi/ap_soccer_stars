@@ -1,8 +1,8 @@
 #ifndef __HYPERPARAMETER__
 #define __HYPERPARAMETER__
 
-#include "./src/rsdl.hpp"
-#include "vector2d.hpp"
+#include "../lib/rsdl.hpp"
+#include "../include/vector2d.hpp"
 #include <string>
 #include <vector>
 

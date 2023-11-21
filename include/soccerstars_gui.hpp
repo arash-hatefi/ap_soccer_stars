@@ -1,10 +1,10 @@
 #ifndef __GUI__
 #define __GUI__
 
-#include "./src/rsdl.hpp"
-#include "vector2d.hpp"
-#include "soccerstars_components.hpp"
-#include "soccerstars_parameters.hpp"
+#include "../lib/rsdl.hpp"
+#include "../include/vector2d.hpp"
+#include "../include/soccerstars_components.hpp"
+#include "../include/soccerstars_parameters.hpp"
 #include <vector>
 #include <string>
 #include <ctime>

@@ -1,11 +1,11 @@
 #ifndef __SOCCERSTARS__
 #define __SOCCERSTARS__
 
-#include "soccerstars_gui.hpp"
-#include "soccerstars_components.hpp"
-#include "components.hpp"
-#include "vector2d.hpp"
-#include "soccerstars_parameters.hpp"
+#include "../include/soccerstars_gui.hpp"
+#include "../include/soccerstars_components.hpp"
+#include "../include/components.hpp"
+#include "../include/vector2d.hpp"
+#include "../include/soccerstars_parameters.hpp"
 
 #define EXIT 0
 
